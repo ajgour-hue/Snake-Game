@@ -14,3 +14,6 @@ Increase your score
 
 But be careful!
 If the snake hits the wall or goes out of the board, the game will end.
+
+
+![Snake Game Screenshot](./images/snake-game.png)
