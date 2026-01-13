@@ -1,5 +1,7 @@
-🐍 Snake Game — 
-📌 Introduction
+Snake Game — 
+
+
+Introduction
 
 This is my Snake Game project, built using HTML, CSS, and JavaScript.
 The goal of the game is simple:
@@ -17,7 +19,7 @@ If the snake hits the wall or goes out of the board, the game will end.
 
 
  
-
+these are the screenshots of homepage:
 
 ![Snake Game Screenshot ](https://github.com/ajgour-hue/Projects/blob/1948f8972ce3ef17657ac0cbc9947ab6ed949e70/Screenshot%202025-11-20%20224752.png)
 
